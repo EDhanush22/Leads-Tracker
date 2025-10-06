@@ -48,4 +48,4 @@ inputBtn.addEventListener("click", ()=> {
     render(myLeads)
 })
 
-// Exactly! You use localStorage.getItem() to retrieve (get) data that you previously saved.
+
